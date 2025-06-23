@@ -70,3 +70,4 @@ Her katkı değerlidir. Fork'la → Geliştir → Pull request gönder.
 
 ## 📝 Lisans
 MIT Lisansı.
+![image](https://github.com/user-attachments/assets/b9b2e69b-2ae5-47cf-bee1-555c4e1284ed)
